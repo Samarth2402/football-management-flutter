@@ -1,0 +1,23 @@
+name: football_management_flutter
+description: Football Management App with Firebase (FlutLab compatible)
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: 2.4.1
+  firebase_auth: 4.1.1
+  cloud_firestore: 4.1.0
+  provider: ^6.0.5
+  fluttertoast: ^8.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

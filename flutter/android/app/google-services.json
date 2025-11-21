@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952482495630",
+    "project_id": "football-management-3eede",
+    "storage_bucket": "football-management-3eede.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952482495630:android:f34938bf196a5fcf341ddf",
+        "android_client_info": {
+          "package_name": "com.example.football_management_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnjFY05g1_DFlbB5yDqZqkxLRoPLUvWbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
